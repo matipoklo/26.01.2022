@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">CheckedTextViewInKotlin</string>
-    <string name="msg_shown">CTView is:</string>
-    <string name="checked">checked</string>
-    <string name="unchecked">unchecked</string>
+    <string name="msg_shown">Chleb jest: </string>
+    <string name ="msg_shown2">Cukier jest: </string>
+    <string name="zaznaczony">zaznaczony</string>
+    <string name="niezaznaczony">niezaznaczony</string>
     <string name="checkedTextView">CheckedTextView</string>
 </resources>
